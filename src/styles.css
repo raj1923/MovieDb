@@ -89,7 +89,7 @@ input {
   height: 220px;
   margin-right: 50px;
 }
-.castdata li{
+.castdata li {
   list-style: none;
 }
 
@@ -101,42 +101,33 @@ input {
 
 #poster-background {
   position: relative;
-  background-size: 100% 100%; 
-  background-repeat: no-repeat; 
-  width: 100% 
-  height: 300px; 
-  border-radius: 10px; 
-  
-  
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
 }
 
-#parent1
-{
+#parent1 {
   position: absolute;
-  top:100px;
+  top: 100px;
   left: 50px;
-  
 }
-#c1 img
-{
+#c1 img {
   width: 20%;
   height: 30vh;
   float: left;
 }
-#titledata{
+#titledata {
   min-width: 30vw;
 }
 
-#c2 
-{
-  position:relative;
+#c2 {
+  position: relative;
   top: 0vh;
   float: left;
-
 }
-#c2 p
-{
+#c2 p {
   max-width: 60%;
-  color:rgb(70, 5, 88);
+  color: rgb(70, 5, 88);
 }
- 
